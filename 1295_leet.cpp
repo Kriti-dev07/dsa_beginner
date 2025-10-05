@@ -7,7 +7,7 @@ This solution is a "mathy" approach:
 - So we increment the count if the number falls into these ranges.
 
 
-Example:
+Example: 
 Input: nums = [12, 345, 2, 6, 7896]
 Output: 2
 Explanation: 12 (2 digits) and 7896 (4 digits) have even number of digits.
