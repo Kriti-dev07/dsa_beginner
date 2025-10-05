@@ -14,6 +14,8 @@ Explanation: 12 (2 digits) and 7896 (4 digits) have even number of digits.
 */
 
 
+#include <bits/stdc++.h>
+using namespace std;
 
 class Solution {
 public:
