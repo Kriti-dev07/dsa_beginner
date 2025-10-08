@@ -1,6 +1,6 @@
 /*
 LeetCode 231: Power of Two ⚡
-
+ 
 Goal:
 Check if a number is a power of two — like 1, 2, 4, 8, 16, 32... you get the vibe 😄
 
